@@ -132,3 +132,10 @@ button {
     width: 235px;
     margin: 10px 0;
 }
+
+/* form */
+.main-form input, textarea{
+    font-size: 22px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
